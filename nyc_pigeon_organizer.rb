@@ -13,8 +13,8 @@ if !final_array[name][key]
 end
 final_array[name][key].push(inner_key)
 end
+binding.pry
 
  #final_array
 end
-binding.pry
 end
